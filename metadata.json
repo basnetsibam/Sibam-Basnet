@@ -1,0 +1,6 @@
+{
+  "name": "Infine Royale",
+  "description": "Competitive tactical Battle Royale and Clash Squad arena shooter set on the Infine map with ranked matchmaking, training ground, vehicles, revival points, and character skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Infine Royale</string>
+    <string name="nav_lobby">Lobby</string>
+    <string name="nav_dashboard">Stats</string>
+    <string name="nav_armory">Armory</string>
+    <string name="nav_map">Infine</string>
+    <string name="nav_career">Ranked</string>
+    <string name="mode_br_ranked">BR Ranked</string>
+    <string name="mode_cs_ranked">CS Ranked</string>
+    <string name="mode_training">Training Ground</string>
+    <string name="btn_start_matchmaking">Find Match</string>
+    <string name="btn_cancel_matchmaking">Cancel Queue</string>
+    <string name="btn_deploy_now">Deploy to Infine</string>
+    <string name="local_arena_notice">Local Competitive Arena • Cloud sync disabled</string>
+    <string name="matchmaking_searching">Matching Ranked Competitors…</string>
+    <string name="matchmaking_found">Squad &amp; Lobby Locked!</string>
+    <string name="label_healing_item">Medkit</string>
+    <string name="label_revival_point">Revival Point</string>
+    <string name="label_leave_match">Exit Match?</string>
+    <string name="msg_leave_match">Leaving a ranked match early forfeits match RP bonuses.</string>
+</resources>
